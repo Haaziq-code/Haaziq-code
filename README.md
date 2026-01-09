@@ -1,8 +1,21 @@
 <div align="center">
 
+# Hi, I'm Haaziq Aamir 👋
+
+<p>
+Systems Engineering @ University of Guelph • Toronto, Ontario, Canada
+</p>
+
+<p>
+I build full-stack and engineering-focused projects — from AI-powered web apps to automation and hardware/FPGA work.
+I care about clean UI, solid backend design, and shipping projects that actually work end-to-end.
+</p>
+
+---
+
 ## Connect with me:
 
-<a href="https://github.com/haaziq-code">
+<a href="https://github.com/Haaziq-code">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:haaziq.aamir8@gmail.com">
@@ -18,17 +31,19 @@
 
 <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass&logoColor=CC6699" />
 <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest&logoColor=C21325" />
 <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Amazon-111111?style=for-the-badge&logo=amazon&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=5391FE" />
+<img src="https://img.shields.io/badge/SystemVerilog-111111?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 
 ---
@@ -47,5 +62,3 @@
 <img src="https://img.shields.io/badge/Lenovo-111111?style=for-the-badge&logo=lenovo&logoColor=E2231A" />
 
 </div>
-
-<!-- profile-refresh: Fri Jan  9 14:27:47 EST 2026 -->
